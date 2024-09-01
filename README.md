@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ahedkhatib/your-repository.git
+   git clone https://github.com/ahedkhatib/my-android-project.git
    
 Open the project in Android Studio:
 
