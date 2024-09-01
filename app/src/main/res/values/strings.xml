@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserManagementApp</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="delete_user">Delete</string>
+</resources>
