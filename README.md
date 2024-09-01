@@ -21,7 +21,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ahedkhatib/your-repository.git
-   Open the project in Android Studio:
+   
+Open the project in Android Studio:
 
 2. Launch Android Studio.
 Click on File -> Open and navigate to the directory where you cloned the project.
